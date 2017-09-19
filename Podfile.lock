@@ -1,0 +1,12 @@
+PODS:
+  - TGCircularTimerView (1.0.0)
+
+DEPENDENCIES:
+  - TGCircularTimerView (~> 1.0)
+
+SPEC CHECKSUMS:
+  TGCircularTimerView: abb9273e12f45633ce0f01348d7ccc9cbb37dddf
+
+PODFILE CHECKSUM: be7d378f5db593cc270be0d1319964fe2673bee3
+
+COCOAPODS: 1.1.1

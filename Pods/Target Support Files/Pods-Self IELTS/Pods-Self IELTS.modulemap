@@ -1,0 +1,6 @@
+framework module Pods_Self_IELTS {
+  umbrella header "Pods-Self IELTS-umbrella.h"
+
+  export *
+  module * { export * }
+}

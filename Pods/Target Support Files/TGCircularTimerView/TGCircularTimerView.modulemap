@@ -1,0 +1,6 @@
+framework module TGCircularTimerView {
+  umbrella header "TGCircularTimerView-umbrella.h"
+
+  export *
+  module * { export * }
+}
